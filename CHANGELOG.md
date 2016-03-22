@@ -1,3 +1,9 @@
+<a name="1.0.1"></a>
+## [1.0.1](/http://github.com-personal/paradox41/firewatch-syntax-sublime/compare/v1.0.0...v1.0.1) (2016-03-22)
+
+
+
+
 <a name="1.0.0"></a>
 # 1.0.0 (2016-03-22)
 
