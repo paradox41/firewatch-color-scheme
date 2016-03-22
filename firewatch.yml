@@ -1,0 +1,151 @@
+---
+name: 'Firewatch'
+style: 'Dark'
+
+background: '#282C34'
+caret: '#528BFF'
+foreground: '#ABB2BF'
+invisibles: '#ABB2BF'
+lineHighlight: '#282C34' # TODO: make lighter
+selection: '#3E4451'
+
+'#5C6370':
+  scopes:
+    - comment:
+        fontStyle:
+          - italic
+    - markup.link
+    - punctuation.definition.comment
+
+'#E5C07B':
+  scopes:
+    - entity.name.type
+    - string.regexp .source.ruby.embedded
+    - punctuation.definition.bold:
+        fontStyle:
+          - bold
+    - support.class
+    - entity.name.class
+    - entity.name.type.class
+    - meta.class
+    - source.java .storage.modifier.import
+    - source.java .storage.type
+
+'#C8AE9D':
+  scopes:
+    - entity.other.inherited-class
+    - string
+    - markup.inserted
+    - markup.raw
+    - source.json .meta.structure.dictionary.json .value.json .string.quoted.json
+    - source.json .meta.structure.array.json .value.json .string.quoted.json
+    - source.json .meta.structure.dictionary.json .value.json .string.quoted.json .punctuation
+    - source.json .meta.structure.array.json .value.json .string.quoted.json .punctuation
+
+'#DD672C':
+  scopes:
+    - keyword
+    - keyword.control
+    - storage
+    - storage.type.annotation
+    - storage.type.primitive
+    - punctuation.definition.italic:
+        fontStyle:
+          -italic
+    - meta.selector
+    - markup.changed
+    - markup.link
+    - source.cs .keyword.operator
+    - source.go .storage.type.string
+    - source.js .keyword.operator.delete
+    - source.js .keyword.operator.in
+    - source.js .keyword.operator.of
+    - source.js .keyword.operator.instanceof
+    - source.js .keyword.operator.new
+    - source.js .keyword.operator.typeof
+    - source.js .keyword.operator.void
+    - source.python .keyword.operator.logical.python
+
+'#ABB2BF':
+  scopes:
+    - keyword.operator
+    - storage.modifier.package
+    - storage.modifier.import
+    - variable.parameter
+    - punctuation.definition.method-parameters
+    - punctuation.definition.function-parameters
+    - punctuation.definition.parameters
+    - punctuation.definition.separator
+    - punctuation.definition.seperator
+    - punctuation.definition.array
+    - punctuation.section.method
+    - punctuation.section.class
+    - punctuation.section.inner-class
+    - meta.class.body
+    - meta.method-call
+    - meta.method
+    - meta.separator
+    - meta.tag
+
+'#EBEBFF':
+  scopes:
+    - keyword.other.special-method
+    - heading
+    - punctuation.definition.identity
+    - support.function.any-method
+    - entity.name.function
+    - entity.name.section
+    - entity.other.attribute-name.id
+    - meta.require
+    - punctuation.definition.heading
+    - source.gfm .link .entity
+
+'#D19A66':
+  scopes:
+    - keyword.other.unit
+    - constant
+    - constant.variable
+    - constant.numeric
+    - entity.other.attribute-name
+    - meta.link
+    - markup.bold:
+        fontStyle:
+          - bold
+    - markup.quote
+    - source.python .variable.parameter
+
+'#56B6C2':
+  scopes:
+    - constant.character.escape
+    - constant.other.color
+    - constant.other.symbol
+    - string.regexp
+    - support.type
+    - support.function
+    - source.js .keyword.operator
+    - source.json .meta.structure.dictionary.json .constant.language.json
+    - source.json .meta.structure.array.json .constant.language.json
+
+'#E06C75':
+  scopes:
+    - variable
+    - string.other.link
+    - entity.name.tag
+    - meta.definition.variable
+    - markup.deleted
+    - markup.heading
+    - source.ini .keyword.other.definition.ini
+    - source.java-properties .meta.key-pair
+    - source.json .meta.structure.dictionary.json .string.quoted.json
+
+'#BE5046':
+  scopes:
+    - variable.interpolation
+
+'#BE5046':
+  scopes:
+    - punctuation.section.embedded
+
+'#FFFFFF':
+  scopes:
+    - invalid.illegal

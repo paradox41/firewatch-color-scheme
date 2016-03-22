@@ -1,0 +1,24 @@
+{
+  "name": "firewatch-syntax-sublime",
+  "version": "1.0.0",
+  "description": "Port of Atom's Firewatch Syntax",
+  "main": "firewatch.tmTheme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "color-scheme-parser firewatch.yml > firewatch.tmTheme"
+  },
+  "keywords": [
+    "firewatch",
+    "sublime",
+    "syntax",
+    "color-scheme"
+  ],
+  "author": {
+    "name": "Will Soto",
+    "email": "will.soto9+github@gmail.com"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "color-scheme-parser": "^1.0.7"
+  }
+}
