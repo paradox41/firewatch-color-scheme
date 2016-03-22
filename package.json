@@ -1,6 +1,6 @@
 {
   "name": "firewatch-syntax-sublime",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Port of Atom's Firewatch Syntax",
   "main": "firewatch.tmTheme",
   "scripts": {
