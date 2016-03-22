@@ -46,7 +46,8 @@ gulp.task('changelog', function() {
 gulp.task('commit-release', function() {
   return gulp.src([
       './package.json',
-      './CHANGELOG.md'
+      './CHANGELOG.md',
+      './firewatch.tmTheme'
     ])
     .pipe(git.add({
       args: '-A'
