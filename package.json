@@ -2,14 +2,16 @@
   "name": "firewatch-syntax-sublime",
   "version": "1.0.0",
   "description": "Port of Atom's Firewatch Syntax",
-  "main": "firewatch.tmTheme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "color-scheme-parser firewatch.yml > firewatch.tmTheme",
     "patch": "npm run build && gulp release:patch",
     "minor": "npm run build && gulp release:minor",
     "major": "npm run build && gulp release:major",
-    "postpublish": "git push origin master --follow-tags"
+    "release": "git push origin master --follow-tags",
+    "postpatch": "npm run release",
+    "postminor": "npm run release",
+    "postmajor": "npm run release"
   },
   "keywords": [
     "firewatch",
