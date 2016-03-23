@@ -532,6 +532,19 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>Keyword Operator Module Js</string>
+            <key>scope</key>
+            <string>keyword.operator.module.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DD672C</string>
+                <key>fontStyle</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Keyword Operator</string>
             <key>scope</key>
             <string>keyword.operator</string>
@@ -756,6 +769,45 @@
             <string>Meta Tag</string>
             <key>scope</key>
             <string>meta.tag</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ABB2BF</string>
+                <key>fontStyle</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Variable Other Readwrite Js</string>
+            <key>scope</key>
+            <string>variable.other.readwrite.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ABB2BF</string>
+                <key>fontStyle</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>String Unquoted Label Js</string>
+            <key>scope</key>
+            <string>string.unquoted.label.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ABB2BF</string>
+                <key>fontStyle</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Variable Function Js</string>
+            <key>scope</key>
+            <string>variable.function.js</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -1247,6 +1299,19 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>Variable Other Readwrite Js</string>
+            <key>scope</key>
+            <string>variable.other.readwrite.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#E06C75</string>
+                <key>fontStyle</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Variable Interpolation</string>
             <key>scope</key>
             <string>variable.interpolation</string>
@@ -1273,7 +1338,7 @@
         </dict>
     </array>
     <key>uuid</key>
-    <string>b16308ff-3c4e-44df-8f48-f33db9fba13c</string>
+    <string>7de89583-3345-4c62-b406-110653202c53</string>
     <key>colorSpaceName</key>
     <string>sRGB</string>
     <key>semanticClass</key>
