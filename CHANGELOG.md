@@ -1,3 +1,13 @@
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/paradox41/firewatch-syntax-sublime/compare/v1.1.0...v1.2.0) (2016-03-24)
+
+
+### Features
+
+* **theme:** add better JSON highlighting ([2333ab3](https://github.com/paradox41/firewatch-syntax-sublime/commit/2333ab3))
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/paradox41/firewatch-syntax-sublime/compare/v1.0.1...v1.1.0) (2016-03-23)
 
