@@ -1,6 +1,6 @@
-# Firewatch Syntax Sublime
+# Firewatch Color Scheme
 
-Port of Atom's [Firewatch Syntax](https://atom.io/themes/firewatch-syntax)
+Port of Atom's [Firewatch Syntax](https://atom.io/themes/firewatch-syntax) for Sublime Text
 
 ### Screenshots
 
