@@ -41,6 +41,9 @@ selection: '#3E4451'
     - source.json .meta.structure.array.json .value.json .string.quoted.json
     - source.json .meta.structure.dictionary.json .value.json .string.quoted.json .punctuation
     - source.json .meta.structure.array.json .value.json .string.quoted.json .punctuation
+    - source.json meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json
+    - source.json meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json
+    - source.json meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json
 
 '#DD672C':
   scopes:
@@ -127,8 +130,8 @@ selection: '#3E4451'
     - support.type
     - support.function
     - source.js .keyword.operator
-    - source.json .meta.structure.dictionary.json .constant.language.json
-    - source.json .meta.structure.array.json .constant.language.json
+    - source.json .meta.structure.dictionary.json
+    - source.json .meta.structure.array.json
 
 '#E06C75':
   scopes:
@@ -140,8 +143,13 @@ selection: '#3E4451'
     - markup.heading
     - source.ini .keyword.other.definition.ini
     - source.java-properties .meta.key-pair
-    - source.json .meta.structure.dictionary.json .string.quoted.json
+    - string.quoted.double.json
     - variable.other.readwrite.js
+    - source.json meta meta meta meta meta.structure.dictionary.json string.quoted.double.json
+    - source.json meta meta meta meta.structure.dictionary.json string.quoted.double.json
+    - source.json meta meta meta.structure.dictionary.json string.quoted.double.json
+    - source.json meta meta.structure.dictionary.json string.quoted.double.json
+    - source.json meta.structure.dictionary.json string.quoted.double.json
 
 '#BE5046':
   scopes:

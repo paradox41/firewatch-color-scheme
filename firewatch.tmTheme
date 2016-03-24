@@ -285,6 +285,45 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>Source Json meta meta meta Structure Dictionary Json meta Structure Dictionary Value Json string Quoted Double Json</string>
+            <key>scope</key>
+            <string>source.json meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#C8AE9D</string>
+                <key>fontStyle</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Source Json meta meta Structure Dictionary Json meta Structure Dictionary Value Json string Quoted Double Json</string>
+            <key>scope</key>
+            <string>source.json meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#C8AE9D</string>
+                <key>fontStyle</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Source Json meta Structure Dictionary Json meta Structure Dictionary Value Json string Quoted Double Json</string>
+            <key>scope</key>
+            <string>source.json meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#C8AE9D</string>
+                <key>fontStyle</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Keyword</string>
             <key>scope</key>
             <string>keyword</string>
@@ -1156,9 +1195,9 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>Source Json  Meta Structure Dictionary Json  Constant Language Json</string>
+            <string>Source Json  Meta Structure Dictionary Json</string>
             <key>scope</key>
-            <string>source.json .meta.structure.dictionary.json .constant.language.json</string>
+            <string>source.json .meta.structure.dictionary.json</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -1169,9 +1208,9 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>Source Json  Meta Structure Array Json  Constant Language Json</string>
+            <string>Source Json  Meta Structure Array Json</string>
             <key>scope</key>
-            <string>source.json .meta.structure.array.json .constant.language.json</string>
+            <string>source.json .meta.structure.array.json</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -1286,9 +1325,9 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>Source Json  Meta Structure Dictionary Json  String Quoted Json</string>
+            <string>String Quoted Double Json</string>
             <key>scope</key>
-            <string>source.json .meta.structure.dictionary.json .string.quoted.json</string>
+            <string>string.quoted.double.json</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -1302,6 +1341,71 @@
             <string>Variable Other Readwrite Js</string>
             <key>scope</key>
             <string>variable.other.readwrite.js</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#E06C75</string>
+                <key>fontStyle</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Source Json meta meta meta meta meta Structure Dictionary Json string Quoted Double Json</string>
+            <key>scope</key>
+            <string>source.json meta meta meta meta meta.structure.dictionary.json string.quoted.double.json</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#E06C75</string>
+                <key>fontStyle</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Source Json meta meta meta meta Structure Dictionary Json string Quoted Double Json</string>
+            <key>scope</key>
+            <string>source.json meta meta meta meta.structure.dictionary.json string.quoted.double.json</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#E06C75</string>
+                <key>fontStyle</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Source Json meta meta meta Structure Dictionary Json string Quoted Double Json</string>
+            <key>scope</key>
+            <string>source.json meta meta meta.structure.dictionary.json string.quoted.double.json</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#E06C75</string>
+                <key>fontStyle</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Source Json meta meta Structure Dictionary Json string Quoted Double Json</string>
+            <key>scope</key>
+            <string>source.json meta meta.structure.dictionary.json string.quoted.double.json</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#E06C75</string>
+                <key>fontStyle</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Source Json meta Structure Dictionary Json string Quoted Double Json</string>
+            <key>scope</key>
+            <string>source.json meta.structure.dictionary.json string.quoted.double.json</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -1338,7 +1442,7 @@
         </dict>
     </array>
     <key>uuid</key>
-    <string>60cf9959-d0d3-47b8-bba8-a6af64762742</string>
+    <string>ced00dfa-abf3-41bc-b781-7d0d992ebd03</string>
     <key>colorSpaceName</key>
     <string>sRGB</string>
     <key>semanticClass</key>
