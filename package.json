@@ -1,7 +1,7 @@
 {
-  "name": "firewatch-syntax-sublime",
+  "name": "firewatch-color-scheme",
   "version": "1.2.0",
-  "description": "Port of Atom's Firewatch Syntax",
+  "description": "Port of Atom's Firewatch Syntax to Sublime Text",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "color-scheme-parser firewatch.yml > firewatch.tmTheme",
