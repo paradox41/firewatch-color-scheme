@@ -1429,6 +1429,19 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>Punctuation Section Embedded</string>
+            <key>scope</key>
+            <string>punctuation.section.embedded</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#BE5046</string>
+                <key>fontStyle</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Invalid Illegal</string>
             <key>scope</key>
             <string>invalid.illegal</string>
@@ -1442,7 +1455,7 @@
         </dict>
     </array>
     <key>uuid</key>
-    <string>38a17707-39ec-4fd2-84bc-c6d16bae9b12</string>
+    <string>7b56a78e-6bfe-4bdc-8553-a39dce910d97</string>
     <key>colorSpaceName</key>
     <string>sRGB</string>
     <key>semanticClass</key>

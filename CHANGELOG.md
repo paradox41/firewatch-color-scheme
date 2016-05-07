@@ -1,3 +1,13 @@
+<a name="1.2.1"></a>
+## [1.2.1](https://github.com/paradox41/firewatch-color-scheme/compare/v1.2.0...v1.2.1) (2016-05-07)
+
+
+### Bug Fixes
+
+* **firewatch:** remove duplicate key([9b0bf9f](https://github.com/paradox41/firewatch-color-scheme/commit/9b0bf9f))
+
+
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/paradox41/firewatch-syntax-sublime/compare/v1.1.0...v1.2.0) (2016-03-24)
 
