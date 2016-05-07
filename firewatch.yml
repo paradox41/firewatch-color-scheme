@@ -154,9 +154,6 @@ selection: '#3E4451'
 '#BE5046':
   scopes:
     - variable.interpolation
-
-'#BE5046':
-  scopes:
     - punctuation.section.embedded
 
 '#FFFFFF':
