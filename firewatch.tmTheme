@@ -397,7 +397,7 @@
                 <key>foreground</key>
                 <string>#DD672C</string>
                 <key>fontStyle</key>
-                <string>-italic</string>
+                <string>italic</string>
             </dict>
         </dict>
         <dict>
@@ -1455,7 +1455,7 @@
         </dict>
     </array>
     <key>uuid</key>
-    <string>7b56a78e-6bfe-4bdc-8553-a39dce910d97</string>
+    <string>4cfa86c7-cfc3-4391-957d-e0f8098e8888</string>
     <key>colorSpaceName</key>
     <string>sRGB</string>
     <key>semanticClass</key>
