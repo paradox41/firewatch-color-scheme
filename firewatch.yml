@@ -54,7 +54,7 @@ selection: '#3E4451'
     - storage.type.primitive
     - punctuation.definition.italic:
         fontStyle:
-          -italic
+          - italic
     - meta.selector
     - markup.changed
     - markup.link
